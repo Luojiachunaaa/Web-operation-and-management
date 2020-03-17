@@ -1,6 +1,5 @@
 # Web operation and management
-## 对[WAI指导原则](https://www.w3.org/WAI/tips/writing/)的中文诠释
-# Web_Operations
+# S1.对[WAI指导原则](https://www.w3.org/WAI/tips/writing/)的中文诠释
 ## 网页编写的可访问性
 > 摘要
 >> 在这个页面会介绍一些基本的注意事项来帮助更好的编写让不同的人群更容易的获取网页的内容。这些技巧能很好的帮助你实现Web Content Accessibility Guidelines (WCAG)的实践要求。跟随这些相关要求的链接，“理解”文档中的详细背景，教程指南，用户案例等。
