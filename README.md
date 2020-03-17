@@ -79,3 +79,6 @@ CPP：在发生车辆碰撞的情况下，公司指定的代表将寻求确定�
 * [可访问性原则](https://www.w3.org/WAI/fundamentals/accessibility-intro/)-WCAG要求简介
 * [残疾人如何使用网络](https://www.w3.org/WAI/people-use-web/)-现实生活中的例子显示了无障碍对残疾人的重要性
 * [如何满足WCAG（快速参考)](https://www.w3.org/WAI/WCAG21/quickref/)-所有WCAG要求和技术的可定制参考
+
+姓名：罗佳莼
+学号：181042166
