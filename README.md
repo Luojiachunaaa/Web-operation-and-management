@@ -128,13 +128,13 @@ CPP：在发生车辆碰撞的情况下，公司指定的代表将寻求确定�
 ---
 # S2.基于WAI原则对【bilibili】进行分析
 ### 1.提供内容丰富的、独特的页面标题
-![]()
+![标题](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/pagetitle.png)
 bilibili用简洁的标题区分了各个网站页面的内容，并且把当前页面的内容标题放在最前面，可以让用户一眼就清楚自己当前身处何处。
 ### 2.使用标题传达页面的内容和页面的结构
 
 此网站善用小标题来区分不同的板块与内容，使用户处于很长的主页中也能很清晰快速地找到自己需要的板块。
 ### 3.让链接的文字有意义
-
+![传送门](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/link.png)
 在此网站主页的页脚部分，有一个「传送门」，可以通过这些表述清晰的链接把你「传送」到任何你想要到达的地方。
 ### 4.为图像编写有意义的文本替代品
 
