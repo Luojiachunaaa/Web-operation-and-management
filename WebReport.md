@@ -37,3 +37,13 @@
 
 #### 3. 通过yoast进行网站SEO，并记录jetpack/站长工具中的流量数字截屏
 ---
+![bing数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/bing01.png)
+![bing数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/bing02.png)
+![bing数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/bing03.png)
+![Jetpack 数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/jetpack01.png)
+![Jetpack 数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/jetpack02.png)
+![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/seo01.png)
+![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/seo02.png)
+![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/seo03.png)
+![site24x7数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/site01.png)
+![site24x7数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/site02.png)
