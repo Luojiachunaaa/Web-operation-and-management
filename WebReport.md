@@ -37,13 +37,21 @@
 
 #### 3. 通过yoast进行网站SEO，并记录jetpack/站长工具中的流量数字截屏
 ---
+### SEO报告
+- 对于某一篇文章编辑好后直接发布，SEO分析出存在的问题，如下图👇
+![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/seo01.png)
+- 在对文章进行简单修改后，文章显示可读性优良，SEO显示不可用
+![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/seo01.png)
+- SEO标题、别名、元描述都是进行SEO评价的重要特征
+![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/seo03.png)
+- 针对列出的问题进行文章修改后，SEO变橘色并显示好👍
+![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/seo04.png)
+### bing数据
 ![bing数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/bing01.png)
 ![bing数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/bing02.png)
 ![bing数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/bing03.png)
 ![Jetpack 数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/jetpack01.png)
 ![Jetpack 数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/jetpack02.png)
-![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/seo01.png)
-![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/seo02.png)
-![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/seo03.png)
+
 ![site24x7数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/site01.png)
 ![site24x7数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/site02.png)
