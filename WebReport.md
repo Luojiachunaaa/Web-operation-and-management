@@ -22,9 +22,10 @@
 ---
 ### 我网站现状
 加入2个站长认证**Bing、百度**
-汇报内容：模拟业界的运营人员周汇报，图文形式记录
 
-#### 1. 站长认证的成果优化
+Bing通过site搜索可以得到结果，百度并无
+
+#### 站长认证的成果优化
 - 站内优化
 1、架构策略。针对关键词设计好的网站架构。
 2、内容策略。需要思考什么样的内容是用户最需要、最喜欢的？纯粹从用户角度考虑内容。
@@ -33,11 +34,8 @@
 1、关键词策略。挖掘、分析、筛选关键词，整理关键词列表。
 2、外链策略。外链主要通过友情链接、商业合作、软文、自然外链来解决。
 
-#### 2. SEO优化。Jetpack 及Yoast SEO说明如何使用产出成果之改进做了什么事、前后的数据对比、分析原因
-
-#### 3. 通过yoast进行网站SEO，并记录jetpack/站长工具中的流量数字截屏
 ---
-### SEO报告
+### SEO报告 jetpack/站长工具中的流量数字
 - 对于某一篇文章编辑好后直接发布，SEO分析出存在的问题，如下图👇
 ![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/seo01.png)
 - 在对文章进行简单修改后，文章显示可读性优良，SEO显示不可用
@@ -47,11 +45,22 @@
 - 针对列出的问题进行文章修改后，SEO变橘色并显示好👍
 ![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/seo04.png)
 ### bing数据
+1. 网站动态
+- 在月初及月某的浏览量最大
+- 在文章优化后浏览量明显提升
+![bing数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/bing03.png)
+
+### Jetpack数据
 ![bing数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/bing01.png)
 ![bing数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/bing02.png)
-![bing数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/bing03.png)
+
+### yoast数据
+1. 浏览状态
 ![Jetpack 数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/jetpack01.png)
 ![Jetpack 数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/jetpack02.png)
 
+### site24x7数据
+1. 响应时间
+- 响应时间较短，体验较好
 ![site24x7数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/site01.png)
 ![site24x7数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/site02.png)
