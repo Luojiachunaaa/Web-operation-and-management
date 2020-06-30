@@ -52,11 +52,11 @@ Bing通过site搜索可以得到结果，百度并无
 - 在文章优化后浏览量明显提升
 ![bing数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/bing03.png)
 
-### Jetpack数据
+### wordpress数据
 ![bing数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/bing01.png)
 ![bing数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/bing02.png)
 
-### yoast数据
+### Jetpack数据
 1. 浏览状态
 ![Jetpack 数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/jetpack01.png)
 ![Jetpack 数据](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/jetpack02.png)
