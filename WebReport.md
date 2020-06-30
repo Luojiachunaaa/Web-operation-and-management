@@ -22,7 +22,9 @@
 ---
 ### 我网站现状
 加入2个站长认证**Bing、百度**
-
+![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/shoulu%20.png)
+![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/shoulu01.png)
+![seo分析](https://github.com/Luojiachunaaa/Web-operation-and-management/blob/master/images/shoulubaidu.png)
 Bing通过site搜索可以得到结果，百度并无
 
 #### 站长认证的成果优化
